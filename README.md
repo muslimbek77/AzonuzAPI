@@ -8,7 +8,7 @@
 * Iymon
 
 * Islom
-1)Ibodatlar 2)Shahsiy holatlar 3) Muomalat 4)Murofoat 5) Fuqarolik hukmlari 6)Siriya hukmlari 7)Jinoiy hukmlar 8)Ulamo va qorilar 9)Zamonaviy fatvolar
+1)Ibodatlar 2)Shahsiy holatlar 3) Muomalat 4)Murofoat 5) Fuqarolik hukmlari 6)Siyaar hukmlari 7)Jinoiy hukmlar 8)Ulamo va qorilar 9)Zamonaviy fatvolar
 
 * Ahloq
 
